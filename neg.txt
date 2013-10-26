@@ -28,7 +28,6 @@ formatting:
     -grammar. salutation and close.
     
 =====================
-day 1:
     -pick one
     -template format
     -study book
@@ -50,10 +49,17 @@ day 1:
         -what approach
         -what length
         
+=========
+You can certainly sympathize with employees when they complain about having their e-mail and instant messages monitored, but you're implementing a company policy that all employees will be asked to agree to abide by when they join the company.  Your firm, Webcor Builders of San Mateo, California, is one of the estimated 60 percent of U.S. companies with such monitoring systems in place.  More and more companies are using these systems (which typically operate by scanning messages for key words that suggest confidential,illegal, or otherwise inappropriate content) in an attempt to avoid instances of sexual harassment and other problems.
+
+As the chief information officer, the manager in charge of the computer systems in the company, you're often the target when employees complain about being monitored. Consequently, you know you're really going to hear it when employees learn that the monitoring program will be expanded to personal blogs as well.
+
+Write an e-mail to be distributed to the entire workforce, explaining that the automated monitoring program is about to be expanded to include employees' personal blogs.  Explain that although you sympathize with employee concerns with regarding privacy and freedom of speech, the management team's responsibility is to protect the company's intellectual property and the value of the company name.  Therefore, employees' personal blogs will be added to the monitoring system to ensure that employees don't intentionally or accidentally expose company secrets or criticize management in a way that could harm the company.
+        
+        
 ==============
 
 Nov 1, Friday (next friday)
 -in class quiz
 -closed book
 -on chapter 10 -(reading for friday specifically)
--
