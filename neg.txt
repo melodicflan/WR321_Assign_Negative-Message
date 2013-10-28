@@ -60,7 +60,9 @@ Write an e-mail to be distributed to the entire workforce, explaining that the a
 - subject line
 - salutation
 - how to signature
-- switch 2nd and 3rd paragraph        
+- switch 2nd and 3rd paragraph 
+- 3 para?  
+- 'our company?'     
 ==============
 
 Nov 1, Friday (next friday)
